@@ -8,3 +8,13 @@ C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Pr
 C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.exe
 C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.pdb
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\bin\Debug\Tetris_Project.exe.config
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\bin\Debug\Tetris_Project.exe
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\bin\Debug\Tetris_Project.pdb
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csprojAssemblyReference.cache
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.Form1.resources
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.Properties.Resources.resources
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csproj.GenerateResource.cache
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csproj.CoreCompileInputs.cache
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.exe
+D:\GitHub\Narsha_CSharp_Tetris\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.pdb
