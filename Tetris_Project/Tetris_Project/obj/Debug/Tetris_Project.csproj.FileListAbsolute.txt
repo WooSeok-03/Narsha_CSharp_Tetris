@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\bin\Debug\Tetris_Project.exe.config
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\bin\Debug\Tetris_Project.exe
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\bin\Debug\Tetris_Project.pdb
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.Form1.resources
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.exe
+C:\Users\user\Desktop\Narsh_C#\Tetris_Project\Tetris_Project\obj\Debug\Tetris_Project.pdb
